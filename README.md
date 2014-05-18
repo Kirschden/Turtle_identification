@@ -2,7 +2,7 @@ Turtle_identification
 =====================
 
 Template creation and matching of Western Painted Turtles
-Code written by Kirsten Dohmeier for CENG 421 (Computer Vision) at the Univerity of Victoria, BC, Canada in March 2012
+Code written by Kirsten Dohmeier for CENG 421 (Computer Vision) at the Univerity of Victoria, BC, Canada in March 2012. 
 Rerpot by Michel van Eekelen and Kirsten Dohmeier
 
 This project makes use of an active contouring method by Ritwik Kumar, Harvard University (interate.m)
