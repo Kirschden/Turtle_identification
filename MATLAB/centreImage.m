@@ -8,7 +8,7 @@ function [img] = centreImage(img, imgCentre)
 %        imgCentre - image containing a single component which represents
 %                    the centre line of the turtle
 %
-%OUTPUTS: img - copped and centred image coresponsding to centroid of
+%OUTPUTS: img - cropped and centred image coresponsding to centroid of
 %               imgCentre
     [M N] = size(imgCentre);
     L = bwlabel(imgCentre);
